@@ -47,13 +47,15 @@ Strong focus on **performance optimization, scalable architecture, and clean UI/
 - Dart Programming  
 - REST API Integration  
 - Firebase Authentication & Services  
-- State Management (Provider, GetX)  
+- State Management (Provider, GetX,Bloc)  
 - Local Databases (Hive, SQFlite)  
 - Clean Architecture & MVVM  
 - JWT Authentication & OTP  
 - Stripe Payment Integration  
 - Google Sign-In  
-- UI/UX Optimization  
+- UI/UX Optimization
+- testing
+- implemented google api(live Tracking - Delivey boy)
 - Git Version Control  
 
 ---
@@ -74,7 +76,7 @@ Strong focus on **performance optimization, scalable architecture, and clean UI/
 - Google Sign-In authentication
 - Cloudinary image handling
 - Real-time cart & product updates  
-**Tech:** Flutter, Dart, Firebase, REST APIs, Stripe, Provider/GetX
+**Tech:** Flutter, Dart, Firebase, REST APIs, Stripe, Provider/GetX,Clean Architecture
 
 ---
 
@@ -89,6 +91,7 @@ Strong focus on **performance optimization, scalable architecture, and clean UI/
 
 ### 🏦 Focus Finsure – Insurance & Remortgage App
 - JWT authentication & OTP login
+- HTTP methods
 - Firebase Authentication
 - Push notifications
 - Dynamic Q&A flow  
